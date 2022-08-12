@@ -3,9 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=thecil&label=Profile%20views&color=0e75b6&style=flat" alt="thecil" /> </p>
 
-- 🔭 I’m currently working on [Moralis Web3](https://moralis.io/)
-
-- 🔭 I’m currently working on [Moralis Academy](https://academy.moralis.io/)
+- 🔭 I’m currently working on [Moralis Web3](https://moralis.io/), [Moralis Academy](https://academy.moralis.io/)
 
 - 🌱 I’m currently learning **Rust, TypeScript, sveltekit**
 
