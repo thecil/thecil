@@ -19,7 +19,7 @@
 <p align="left">
 <a href="https://codepen.io/thecil" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="thecil" height="30" width="40" /></a>
 <a href="https://twitter.com/thecil_eth" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="thecil_eth" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/carlos (thecil) zambrano" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="carlos (thecil) zambrano" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/carlos-zambrano-6257b2184/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="carlos (thecil) zambrano" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
