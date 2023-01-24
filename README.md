@@ -3,15 +3,15 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=thecil&label=Profile%20views&color=0e75b6&style=flat" alt="thecil" /> </p>
 
-- 🔭 I’m currently working on [Moralis Web3](https://moralis.io/), [Moralis Academy](https://academy.moralis.io/)
+- 🔭 I’m currently working as remote freelance.
 
 - 🌱 I’m currently learning **Rust, TypeScript, sveltekit**
 
 - 👯 I’m looking to collaborate on **Web3 - Blockchain**
 
-- 🤝 I’m currently helping with [Paticas en la Arena](https://paticas.net/)
+<!-- - 🤝 I’m currently helping with [Paticas en la Arena](https://paticas.net/) -->
 
-- 💬 Ask me about **svelte, sveltekit, web3, solidity, js, blockchain.**
+- 💬 Ask me about **svelte, sveltekit, web3, solidity, js, ts, nextJs, react, blockchain.**
 
 - 📫 How to reach me **tcconsulta@gmail.com**
 
