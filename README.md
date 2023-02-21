@@ -68,6 +68,3 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/thecil/thecil/blob/output/snake.svg" alt="Snake animation" />
-
-###
